@@ -45,7 +45,7 @@ Google Colaboratory に以下のコードをアップして、上から順番に
 5.  src/5_news_cl_test_quantization_ML512_with_CPU.ipynb ： q_ml512モデルの評価
 6.  src/6_news_cl_test_quantization_ML256_with_CPU.ipynb ： q_ml256モデルの評価
 7.  src/7_news_cl_test_quantization_ML128_with_CPU.ipynb ： q_ml128モデルの評価
-8.  src/8_news_cl_test_quantization_ML064_with_CPU.ipynb ： q_ml256モデルの評価
+8.  src/8_news_cl_test_quantization_ML064_with_CPU.ipynb ： q_ml064モデルの評価
 
 Google Colaboratory Pro にて動作確認しています。
 
