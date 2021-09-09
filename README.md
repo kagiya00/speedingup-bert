@@ -35,7 +35,8 @@
 
 ## コードの実行方法
 
-Google Colaboratory に以下のコードをアップして、上から順番に実行してください。
+Google Colaboratory に以下のコードをアップして、上から順番に実行してください。  
+1.のコードの出力ファイルを2.のコードで読み込み、2.のコードの出力ファイルを3.以降のコードで読み込んでいます。前のコードをシャットダウンしておかないと、後のコードでファイルの読み込みに失敗するかもしれません。
 
 1.  src/1_news_cl_pre.ipynb  ： データセットの読み込みと前処理
 2.  src/2_news_cl_train.ipynb ： 事前学習済みモデルの読み込みとファインチューニング。
@@ -45,6 +46,10 @@ Google Colaboratory に以下のコードをアップして、上から順番に
 6.  src/6_news_cl_test_quantization_ML256_with_CPU.ipynb ： q_ml256モデルの評価
 7.  src/7_news_cl_test_quantization_ML128_with_CPU.ipynb ： q_ml128モデルの評価
 8.  src/8_news_cl_test_quantization_ML064_with_CPU.ipynb ： q_ml256モデルの評価
+
+Google Colaboratory Pro にて動作確認しています。
+
+
 
 
 
