@@ -13,7 +13,7 @@
 
 結果は以下の通りです。CPUを用いたベースモデル(base_CPU)に対し、量子化とMAX_LENGTHの縮小を行ったモデル(q_ml128, q_ml064)では、精度は低下するものの（94%→84%～75%）、性能は５～８倍になりました。
 
-<img src="images\chart1_result.jpg" alt="図１ 評価結果" style="zoom:80%;" />
+<img src="images\chart1_result.jpg" alt="図１ 評価結果" style="zoom:100%;" />
 
 <img src="images\table1_result.jpg" alt="表1 評価結果" style="zoom:100%;" />
 
